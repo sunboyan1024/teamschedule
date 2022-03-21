@@ -1,0 +1,2 @@
+为实体对象（Employee及其子类如程序员等)的管理模块，
+NameListService和TeamService类分别用各自的数组来管理公司员工和开发团队成员对象
